@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages I'm  Kotino Xu
+2023年06月24日
 
 You can use the [editor on GitHub](https://github.com/kotino17/kt.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
